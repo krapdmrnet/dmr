@@ -1,8 +1,8 @@
 #	DMR_Hosts.txt
 #
-#	Edited for non-commercial use by KRAPDMR.net
 #	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
 #	Origional idea from Adrian Craig (M0GLJ)
+#	Edited for non-commercial use by KRAPDMR.net
 #
 #	Updated 18-Dec-2022
 #
